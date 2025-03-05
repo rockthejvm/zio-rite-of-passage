@@ -10,6 +10,8 @@ This repository contains the application we write in the course: a review-board 
 - full credit card checkout with Stripe checkout sessions
 - various forms of data storage and retrieval (CRUD-style)
 
+You can find a live version of the app [here](https://companies.rockthejvm.com).
+
 The application is built with 
 - [ZIO](https://zio.dev) for effects, tests, config, logging and others
 - [Tapir](https://tapir.softwaremill.com/) for HTTP definitions, with ZIO HTTP as the server
